@@ -84,7 +84,7 @@ I'm <strong>Aissam</strong> — a passionate <strong>Software Engineering Studen
 ###
 
 <div align="center">
-  <img height="393" src="https://i.pinimg.com/originals/a1/c9/6c/a1c96cb87eda765cca52b7a0e7178764.gif"  />
+  <img height="393" src="https://raw.githubusercontent.com/issamidbenahmed/issamidbenahmed/main/assets/i'mhim.gif" alt="Coding GIF" />
 </div>
 
 ###
